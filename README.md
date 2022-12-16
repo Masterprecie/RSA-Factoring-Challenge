@@ -47,7 +47,7 @@ How far can you go in less than 5 seconds?
 
 👤 **Ikpa Precious**
 
-- GitHub: [@ekivictory1](https://github.com/Masterprecie/RSA-Factoring-Challenge.git)
+- GitHub: [@Masterprecie](https://github.com/Masterprecie/RSA-Factoring-Challenge.git)
 
 **Precious@ ALX software engineering programme 2022.**
 ## Show your support
